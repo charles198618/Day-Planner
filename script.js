@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 86852914e724f89835da0631611491bb922f9e12
 console.log(moment().format())
 console.log(moment().format('dddd, MMMM, Do'))
 
